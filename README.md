@@ -68,4 +68,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ajit619&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-![Snake animation](https://github.com/Ajit619/Ajit619/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
